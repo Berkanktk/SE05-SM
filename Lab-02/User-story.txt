@@ -1,0 +1,2 @@
+As a user, I want to be able to add different types of text which also can be edited, so that i can describe and place notes to figures or other content on the canvas.
+
